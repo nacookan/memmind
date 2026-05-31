@@ -1,0 +1,26 @@
+/* Chart titles */
+"chart.memory"   = "Physical Memory";
+"chart.swap"     = "Swap Used";
+"chart.swap_io"  = "Swap I/O";
+
+/* Tooltip labels */
+"tip.app"        = "App";
+"tip.wired"      = "Wired";
+"tip.compressed" = "Compressed";
+"tip.inactive"   = "Inactive";
+"tip.free"       = "Free";
+"tip.used"       = "Used";
+"tip.unused"     = "Unused";
+"tip.swap"       = "Swap";
+
+/* Memory label format: used / total (pct)\nwired  compressed */
+"mem.used_fmt"   = "Used %.0fGB / %.0fGB (%.0f%%)\nWired %@  Compressed %@";
+
+/* I/O labels */
+"io.in"          = "In";
+"io.out"         = "Out";
+
+/* Interval menu */
+"menu.interval"     = "Refresh Rate";
+"menu.interval.sec" = " sec";
+"menu.quit"         = "Quit MemMind";

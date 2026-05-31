@@ -1,0 +1,26 @@
+/* Chart titles */
+"chart.memory"   = "物理メモリ";
+"chart.swap"     = "スワップ使用量";
+"chart.swap_io"  = "スワップI/O";
+
+/* Tooltip labels */
+"tip.app"        = "アプリ";
+"tip.wired"      = "固定";
+"tip.compressed" = "圧縮";
+"tip.inactive"   = "非活性";
+"tip.free"       = "空き";
+"tip.used"       = "使用合計";
+"tip.unused"     = "未使用合計";
+"tip.swap"       = "スワップ";
+
+/* Memory label format */
+"mem.used_fmt"   = "使用 %.0fGB / %.0fGB (%.0f%%)\n固定 %@  圧縮 %@";
+
+/* I/O labels */
+"io.in"          = "In";
+"io.out"         = "Out";
+
+/* Interval menu */
+"menu.interval"     = "更新頻度";
+"menu.interval.sec" = "秒";
+"menu.quit"         = "MemMindを終了";
