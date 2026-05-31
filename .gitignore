@@ -1,0 +1,23 @@
+# Xcode build output
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+
+# Xcode scheme (auto-generated, user-specific)
+*.xcodeproj/xcshareddata/xcdebugger/
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V7
+.Trashes
+
+# Claude Code project settings (contains local paths)
+.claude/
+
+# Icon generation script output (generated artifacts)
+/tmp/
